@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // Substitua pelo nome exato do seu repositório no GitHub
-const repoName = "data-gov-lookup-portal-main";
+const repoName = "scarfacesearch";
 
 export default defineConfig(({ mode }) => ({
   base: `/${repoName}/`,
